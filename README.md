@@ -1,5 +1,27 @@
 # Examples-Of-Training-Program
 
+
+
+
+
+<img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="150px" height="150px" /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [BinarySearch] 
 
 * [Enums]
