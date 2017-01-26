@@ -4,7 +4,7 @@
 
 * [Enums]
 
- *[Sharing algorithm]
+* [Sharing algorithm]
 
 
 
