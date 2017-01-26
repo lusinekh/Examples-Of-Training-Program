@@ -29,4 +29,4 @@
 
 
 
-[BinarySearch]: http://hyperphysics.phy-astr.gsu.edu/hbase/vect.html
+[BinarySearch]: https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/BinarySearch
