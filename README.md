@@ -4,6 +4,7 @@
 
 * [Enums]
 
+ *[Sharing algorithm]
 
 
 
@@ -27,7 +28,6 @@
 
 
 
-
-
+ [Sharing algorithm]:https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Sharing%20algorithm 
  [Enums]:        https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Enums
 [BinarySearch]: https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/BinarySearch
