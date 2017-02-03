@@ -32,6 +32,7 @@
 
 *  [Testfibonachi]
 *  [Interface]
+*  [Delegate]
 
 
 
@@ -48,7 +49,7 @@
 
 
 
-[Delegate]:https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Interface
+[Delegate]:https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Delegate
 [Interface]:https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Interface
 [Testfibonachi]:https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Testfibonachi
 [Testcar]:     https://github.com/lusinekh/Examples-Of-Training-Program/tree/master/Testcar
